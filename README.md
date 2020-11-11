@@ -46,7 +46,7 @@ They are validated as follows:
 It's build using the next technologies:
 - Java 11.
 - Spring Boot.
-- Docker
+- Docker.
 - Parallelism.
 - Lambda Functional Programming.
  
