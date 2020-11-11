@@ -27,7 +27,7 @@ $ ./mvnw spring-boot:run
 - PUT: http://localhost:8999/recommended-words
 
 ## Swagger
-- http://localhost:8080/swagger-ui/index.html
+- http://localhost:8999/swagger-ui.html
 
 This endpoint receives a json object with two attributes: prefix and words with follow structure:
 ```json5
