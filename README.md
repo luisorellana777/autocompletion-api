@@ -32,8 +32,8 @@ $ ./mvnw spring-boot:run
 This endpoint receives a json object with two attributes: prefix and words with follow structure:
 ```json5
 {
-  "prefix": "",
-  "words": ""
+  "prefix": "et",
+  "words": "Etiam capillus unus habet umbram"
 }
 ```
 

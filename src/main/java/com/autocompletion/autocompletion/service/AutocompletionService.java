@@ -21,7 +21,7 @@ public class AutocompletionService {
 
         try {
 
-            List<String> wordsList = Arrays.asList(words.split("\\s+"));
+            List<String> wordsList = Arrays.asList(words.replace("\\n", "\\s+").split("\\s+"));
 
             ForkJoinPool customThreadPool = new ForkJoinPool(threadQuantity);
             List<String> collectWords = customThreadPool.submit(
