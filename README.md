@@ -42,7 +42,7 @@ They are validated as follows:
 - Not Empty
 - New Lines Are Not Allowed
 
-#Observations:
+# Observations:
 It's build using the next technologies:
 - Java 11.
 - Spring Boot.
