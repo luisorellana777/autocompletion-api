@@ -1,13 +1,13 @@
-package com.autocompleton.autocompleton;
+package com.autocompletion.autocompletion;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AutocompletonApplication {
+public class AutocompletionApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AutocompletonApplication.class, args);
+        SpringApplication.run(AutocompletionApplication.class, args);
     }
 
 }

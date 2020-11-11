@@ -1,4 +1,4 @@
-package com.autocompleton.autocompleton.exception;
+package com.autocompletion.autocompletion.exception;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;

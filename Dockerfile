@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11
+FROM openjdk:11-jre-slim
 VOLUME /tmp
 EXPOSE 8999
 ADD target/*.jar app.jar

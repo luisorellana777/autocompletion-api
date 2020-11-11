@@ -1,7 +1,7 @@
-package com.autocompleton.autocompleton.controller;
+package com.autocompletion.autocompletion.controller;
 
-import com.autocompleton.autocompleton.domain.InboundWord;
-import com.autocompleton.autocompleton.service.AutocompletionService;
+import com.autocompletion.autocompletion.domain.InboundWord;
+import com.autocompletion.autocompletion.service.AutocompletionService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -8,11 +8,11 @@
         <version>2.3.5.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.autocompleton</groupId>
-    <artifactId>autocompleton</artifactId>
+    <groupId>com.autocompletion</groupId>
+    <artifactId>autocompletion</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>autocompleton</name>
-    <description>Given a set of words and a prefix, it finds words wich contains the given prefix.</description>
+    <name>autocompletion</name>
+    <description>Given a set of words and a prefix, it finds words which contains the given prefix.</description>
 
     <properties>
         <java.version>11</java.version>

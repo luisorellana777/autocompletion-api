@@ -1,4 +1,4 @@
-package com.autocompleton.autocompleton.domain;
+package com.autocompletion.autocompletion.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

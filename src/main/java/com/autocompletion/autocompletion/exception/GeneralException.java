@@ -1,4 +1,4 @@
-package com.autocompleton.autocompleton.exception;
+package com.autocompletion.autocompletion.exception;
 
 import lombok.Getter;
 import lombok.Setter;

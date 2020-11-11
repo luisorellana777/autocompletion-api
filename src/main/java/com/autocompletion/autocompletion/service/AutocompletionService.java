@@ -1,6 +1,6 @@
-package com.autocompleton.autocompleton.service;
+package com.autocompletion.autocompletion.service;
 
-import com.autocompleton.autocompleton.exception.GeneralException;
+import com.autocompletion.autocompletion.exception.GeneralException;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

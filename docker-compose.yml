@@ -1,8 +1,8 @@
 version: '3.8'
 
 services:
-  restaurant-sales:
-    image: luisorellanaa/autocompleton:1.0.0-SNAPSHOT
+  autocompletion:
+    image: luisorellanaa/autocompletion:0.0.1-SNAPSHOT
     ports:
       - "8999:8999"
     restart: always
