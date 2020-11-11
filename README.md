@@ -1,4 +1,4 @@
-# Recommendation Autocompletion App
+# Recommendation Autocompletion API
 
 ## Requirements
 ### Without local compilation
