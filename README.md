@@ -40,6 +40,7 @@ This endpoint receives a json object with two attributes: prefix and words with 
 They are validated as follows:
 - Not Null
 - Not Empty
+- New Lines Are Not Allowed
 
 #Observations:
 It's build using the next technologies:
